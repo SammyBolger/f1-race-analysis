@@ -76,12 +76,17 @@ Clone the repo:
 ```bash
 git clone https://github.com/SammyBolger/f1-race-replay.git
 cd f1-race-replay
+```
 
 Install dependencies:
+```bash
 pip install -r requirements.txt
+```
 
 Run the application:
+```bash
 python main.py
+```
 
 FastF1 will automatically create a cache folder on first run.
 If it does not, manually create a folder named .fastf1-cache in the project root.
