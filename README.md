@@ -106,5 +106,5 @@ This project is based on the original F1 Race Replay project created by Tom Shaw
 
 📬 Contact
 
-LinkedIn: Sam Bolger
-Email: sbolger@cord.edu
+- LinkedIn: Sam Bolger
+- Email: sbolger@cord.edu
