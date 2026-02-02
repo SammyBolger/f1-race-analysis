@@ -19,7 +19,7 @@ The app provides a desktop GUI to select seasons, race weekends, and sessions, t
 
 Here is A quick demo on how the application works.
 
-![GUI Menu Preview](./resources/F1_Race_Analysis.mp4)
+![F1_Race_Analysis](./resources/F1_Race_Analysis.mp4)
 
 ---
 
