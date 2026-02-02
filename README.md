@@ -15,17 +15,18 @@ The app provides a desktop GUI to select seasons, race weekends, and sessions, t
 
 ---
 
-| Home Screen |
-|-------------|--------------|
-| ![Home](./resources/gui-menu.png) |
+### 🖥️ Home Screen
+![Home Screen](./resources/gui-menu.png)
 
-| Race Analysis |
-|-------------|--------------|
-| ![Race Analysis](./resources/preview.png) |
+---
 
-| Race Analysis |
-|-------------|--------------|
-| ![Driver Overlay](./resources/stats.png) |
+### 📊 Race Analysis
+![Race Analysis](./resources/preview.png)
+
+---
+
+### 🧩 Driver Telemetry Overlay
+![Driver Overlay](./resources/stats.png)
 
 ---
 
