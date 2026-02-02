@@ -15,9 +15,9 @@ The app provides a desktop GUI to select seasons, race weekends, and sessions, t
 
 ---
 
-| Home Screen | Contact Page |
+| Home Screen | Race Analysis |
 |-------------|--------------|
-| ![Home](screenshots/home.jpg) | ![Contact](screenshots/contact.jpg) |
+| ![Home](./resources/gui-menu.png) | ![Race Analysis](./resources/preview.png) |
 
 | Rules Page | Gameplay |
 |------------|----------|
@@ -27,7 +27,7 @@ The app provides a desktop GUI to select seasons, race weekends, and sessions, t
 |---------------------------------|
 | ![Push](screenshots/push.jpg) ![Win](screenshots/win.jpg) ![Lose](screenshots/lose.jpg) |
 
-![F1_Race_Analysis](resources/F1_Race_Analysis.mp4)
+![F1_Race_Analysis](./resources/F1_Race_Analysis.mp4)
 
 ---
 
