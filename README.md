@@ -102,10 +102,10 @@ Tom Shaw, This version builds on that foundation with additional UI, UX, and app
 
 📈 Future Work
 
-Improve leaderboard accuracy during pit cycles and race start
-Expand qualifying and sprint session visualizations
-Add additional telemetry overlays and driver comparison tools
-Explore exporting replays or telemetry summaries
+- ** Improve leaderboard accuracy during pit cycles and race start
+- ** Expand qualifying and sprint session visualizations
+- ** Add additional telemetry overlays and driver comparison tools
+- ** Explore exporting replays or telemetry summaries
 
 📬 Contact
 
