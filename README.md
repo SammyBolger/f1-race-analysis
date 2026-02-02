@@ -3,10 +3,6 @@
 A Python application for visualizing Formula 1 sessions using real telemetry data.  
 The app provides a desktop GUI to select seasons, race weekends, and sessions, then launches an animated replay with interactive playback controls and driver telemetry overlays.
 
-![Race Replay Preview](./resources/preview.png)
-
----
-
 ## 🚀 Features
 
 - **Animated race replays** using real F1 telemetry data  
@@ -19,11 +15,11 @@ The app provides a desktop GUI to select seasons, race weekends, and sessions, t
 
 ---
 
-## 🖥️ Desktop GUI
+## 🖥️ Demo
 
-The application includes a graphical menu for browsing seasons and race weekends, then selecting the available session types for replay.
+Here is A quick demo on how the application works.
 
-![GUI Menu Preview](./resources/gui-menu.png)
+![GUI Menu Preview](./resources/F1_Race_Analysis.mp4)
 
 ---
 
