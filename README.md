@@ -15,17 +15,19 @@ The app provides a desktop GUI to select seasons, race weekends, and sessions, t
 
 ---
 
-### 🖥️ Home Screen
+## 📸 Screenshots
+
+### Home Screen
 ![Home Screen](./resources/gui-menu.png)
 
 ---
 
-### 📊 Race Analysis
+### Race Analysis
 ![Race Analysis](./resources/preview.png)
 
 ---
 
-### 🧩 Driver Telemetry Overlay
+### Driver Telemetry Overlay
 ![Driver Overlay](./resources/stats.png)
 
 ---
@@ -70,7 +72,19 @@ This functionality is still being refined.
 
 ## 🚀 How to Run
 
+Clone the repo  
 
+git clone https://github.com/SammyBolger/f1-race-replay.git
+cd f1-race-replay
+
+Install dependencies
+pip install -r requirements.txt
+
+Run the application
+python main.py
+
+FastF1 will automatically create a cache folder on first run.
+If it does not, manually create a folder named .fastf1-cache in the project root.
 
 ---
 
