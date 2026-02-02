@@ -1,7 +1,7 @@
 # 🏎️ F1 Race Analysis
 
-A Python application for visualizing Formula 1 sessions using real telemetry data.  
-The app provides a desktop GUI to select seasons, race weekends, and sessions, then launches an animated replay with interactive playback controls and driver telemetry overlays.
+A Python application for visualizing Formula 1 sessions using real telemetry data. The app provides a desktop GUI to select seasons, 
+race weekends, and sessions, then launches an animated replay with interactive playback controls and driver telemetry overlays.
 
 ## 🚀 Features
 
