@@ -1,2 +1,91 @@
-# f1-race-replay
-Interactive Formula 1 race replay and telemetry visualization tool built in Python. Includes a desktop GUI for selecting seasons, races, and sessions, and an animated replay engine driven by real Formula 1 telemetry data with a focus on usability and visual clarity.
+# 🏎️ F1 Race Replay
+
+A Python application for visualizing Formula 1 sessions using real telemetry data.  
+The app provides a desktop GUI to select seasons, race weekends, and sessions, then launches an animated replay with interactive playback controls and driver telemetry overlays.
+
+![Race Replay Preview](./resources/preview.png)
+
+---
+
+## 🚀 Features
+
+- **Animated race replays** using real F1 telemetry data  
+- **Desktop GUI** for selecting seasons, races, and sessions  
+- **Live leaderboard** with tyre compounds and driver status  
+- **Lap and time tracking** throughout the session  
+- **Driver telemetry overlays** including speed, gear, and DRS status  
+- **Interactive playback controls** via keyboard and on-screen buttons  
+- **On-screen legend** explaining all controls  
+
+---
+
+## 🖥️ Desktop GUI
+
+The application includes a graphical menu for browsing seasons and race weekends, then selecting the available session types for replay.
+
+![GUI Menu Preview](./resources/gui-menu.png)
+
+---
+
+## 🎮 Controls
+
+| Action | Key |
+|------|----|
+| Pause / Resume | `Space` |
+| Rewind / Fast Forward | `←` / `→` |
+| Change Playback Speed | `↑` / `↓` |
+| Set Speed Directly | `1`–`4` |
+| Restart Replay | `R` |
+| Toggle DRS Zones | `D` |
+| Toggle Progress Bar | `B` |
+| Toggle Driver Labels | `L` |
+| Select Drivers | Click / `Shift + Click` |
+
+---
+
+## 🏁 Session Support
+
+- **Race**
+- **Qualifying**
+- **Sprint**
+- **Sprint Qualifying** (if available for the event)
+
+Qualifying replays include lap-based telemetry such as speed, gear, throttle, and brake data.  
+This functionality is still being refined.
+
+---
+
+## 🧠 Technologies Used
+
+- **Python 3.11+**
+- **FastF1** for official telemetry and timing data  
+- **PySide6 (Qt)** for the desktop GUI  
+- **Arcade / Pyglet** for animated race visualization  
+- **NumPy** for numerical processing  
+
+---
+
+## 🚀 How to Run
+
+
+
+---
+
+🙏 Acknowledgements
+
+This project is based on the original F1 Race Replay project created by
+Tom Shaw, This version builds on that foundation with additional UI, UX, and application flow improvements.
+
+---
+
+📈 Future Work
+
+Improve leaderboard accuracy during pit cycles and race start
+Expand qualifying and sprint session visualizations
+Add additional telemetry overlays and driver comparison tools
+Explore exporting replays or telemetry summaries
+
+📬 Contact
+
+LinkedIn: Sam Bolger
+Email: sbolger@cord.edu
