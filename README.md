@@ -55,8 +55,7 @@ The app provides a desktop GUI to select seasons, race weekends, and sessions, t
 - **Sprint**
 - **Sprint Qualifying** (if available for the event)
 
-Qualifying replays include lap-based telemetry such as speed, gear, throttle, and brake data.  
-This functionality is still being refined.
+Qualifying replays include lap based telemetry such as speed, gear, throttle, and brake data.  
 
 ---
 
@@ -88,24 +87,22 @@ Run the application:
 python main.py
 ```
 
-FastF1 will automatically create a cache folder on first run.
-If it does not, manually create a folder named .fastf1-cache in the project root.
+FastF1 will automatically create a cache folder on first run. If it does not, manually create a folder named .fastf1-cache in the project root.
 
 ---
 
 🙏 Acknowledgements
 
-This project is based on the original F1 Race Replay project created by
-Tom Shaw, This version builds on that foundation with additional UI, UX, and application flow improvements.
+This project is based on the original F1 Race Replay project created by Tom Shaw, This version builds on that foundation with additional UI, UX, and application flow improvements.
 
 ---
 
 📈 Future Work
 
-- ** Improve leaderboard accuracy during pit cycles and race start
-- ** Expand qualifying and sprint session visualizations
-- ** Add additional telemetry overlays and driver comparison tools
-- ** Explore exporting replays or telemetry summaries
+- Improve leaderboard accuracy during pit cycles and race start
+- Expand qualifying and sprint session visualizations
+- Add additional telemetry overlays and driver comparison tools
+- Explore exporting replays or telemetry summaries
 
 📬 Contact
 
