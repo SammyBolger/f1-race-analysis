@@ -108,7 +108,7 @@ This project is based on the original F1 Race Replay project created by Tom Shaw
 
 ## Data
 
-[Fast F1](https://github.com/theOehrly/Fast-F1) All F1 data somes from this repo
+[Fast F1](https://github.com/theOehrly/Fast-F1), all F1 data somes from this repo
 
 ---
 
