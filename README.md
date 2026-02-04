@@ -7,6 +7,11 @@ The app provides a desktop GUI to select seasons, race weekends, and sessions, t
 
 ##  Screenshots
 
+## 🎥 Demo Video
+[![Watch the demo](./resources/preview.png)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/d7Qj-yIH2gg))
+
+
+
 ### Home Screen
 ![Home Screen](./resources/gui-menu.png)
 
