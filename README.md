@@ -1,9 +1,9 @@
-# 🏎️ F1 Race Analysis
+# F1 Race Analysis
 
 A Python application for visualizing Formula 1 sessions using real telemetry data. 
 The app provides a desktop GUI to select seasons, race weekends, and sessions, then launches an animated replay with interactive playback controls and driver telemetry overlays.
 
-## 🚀 Features
+##  Features
 
 - **Animated race replays** using real F1 telemetry data  
 - **Desktop GUI** for selecting seasons, races, and sessions  
@@ -15,7 +15,7 @@ The app provides a desktop GUI to select seasons, race weekends, and sessions, t
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Home Screen
 ![Home Screen](./resources/gui-menu.png)
@@ -32,7 +32,7 @@ The app provides a desktop GUI to select seasons, race weekends, and sessions, t
 
 ---
 
-## 🎮 Controls
+##  Controls
 
 | Action | Key |
 |------|----|
@@ -48,7 +48,7 @@ The app provides a desktop GUI to select seasons, race weekends, and sessions, t
 
 ---
 
-## 🏁 Session Support
+##  Session Support
 
 - **Race**
 - **Qualifying**
@@ -59,7 +59,7 @@ Qualifying replays include lap based telemetry such as speed, gear, throttle, an
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 - **Python 3.11+**
 - **FastF1** for official telemetry and timing data  
@@ -69,7 +69,7 @@ Qualifying replays include lap based telemetry such as speed, gear, throttle, an
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 Clone the repo:
 ```bash
@@ -91,20 +91,21 @@ FastF1 will automatically create a cache folder on first run. If it does not, ma
 
 ---
 
-🙏 Acknowledgements
+## Acknowledgements
 
 This project is based on the original F1 Race Replay project created by Tom Shaw, This version builds on that foundation with additional UI, UX, and application flow improvements.
 
 ---
 
-📈 Future Work
+ ## Future Work
 
-- Improve leaderboard accuracy during pit cycles and race start
-- Expand qualifying and sprint session visualizations
-- Add additional telemetry overlays and driver comparison tools
-- Explore exporting replays or telemetry summaries
+- **Improve leaderboard accuracy** during pit cycles and race start
+- **Expand qualifying and sprint** session visualizations
+- **Add additional telemetry overlays** and driver comparison tools
+- **Explore exporting replays** or telemetry summaries
 
-📬 Contact
+## Contact
 
-- LinkedIn: Sam Bolger
-- Email: sbolger@cord.edu
+- **LinkedIn:** [Sam Bolger](https://www.linkedin.com/in/sambolger/)
+- **Email:** sbolger@cord.edu
+- **Portfolio:** [sammybolger.com](http://www.sammybolger.com/)
