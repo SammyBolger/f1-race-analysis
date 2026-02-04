@@ -104,6 +104,14 @@ This project is based on the original F1 Race Replay project created by Tom Shaw
 - **Add additional telemetry overlays** and driver comparison tools
 - **Explore exporting replays** or telemetry summaries
 
+---
+
+## Data
+
+[Fast F1](https://github.com/theOehrly/Fast-F1) All F1 data somes from this repo
+
+---
+
 ## Contact
 
 - **LinkedIn:** [Sam Bolger](https://www.linkedin.com/in/sambolger/)
